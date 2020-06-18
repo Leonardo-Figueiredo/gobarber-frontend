@@ -1,7 +1,7 @@
 # GoBarber - Frontend
 I used ReactJS and TypeScript in this application.
 
-## To runt locally, follow these instructions:
+## To run locally, follow these instructions:
 
 1 - Make a clone of this repository with a **git clone**. <br />
 2 - Execute **yarn** in the root path. <br />
